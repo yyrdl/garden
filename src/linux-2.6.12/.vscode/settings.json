@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "netlink.h": "c",
+        "socket.h": "c"
+    }
+}
